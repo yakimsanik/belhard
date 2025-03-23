@@ -3,3 +3,4 @@ my_list = ['строка 1', 'строка 2', 'строка 3', 'строка 4
 print(my_list)
 my_list[2] = ('новая строка')
 print(my_list)
+#proverka1
